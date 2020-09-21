@@ -1,3 +1,6 @@
 credentials.json
 journal.json
 *.log
+.terraform
+*.tfstate
+*.tfstate.backup
